@@ -1,6 +1,12 @@
 Finance Team
-Charles
-Lisa
-John
-Stacy
-Alexander
+-Charles
+-Lisa
+-John
+-Stacy
+-Alexander
+
+Marketing Team
+-Collins
+-Linda
+-Patricia
+-Morgan
